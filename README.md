@@ -22,7 +22,7 @@ Neste repositório estão os exercícios realizados durante o curso. Serve tamb�
 - #### Saída de dados
   - WriteLine
   - Write
-  - Escapes (\n, \a, \\, \", ...)
+  - Escapes (\n, \t, \a, \\, \", ...)
 - #### Conversão de tipos
   - Implícita
   - Explícita (ToBoolean, ToChar, ToInt16, ToInt32, ToString, ...) 
@@ -30,5 +30,9 @@ Neste repositório estão os exercícios realizados durante o curso. Serve tamb�
   - ReadLine (sem e com conversão)
   - Read
   - ReadKey
+- #### Cálculos e Classe Math
+  - Operadores Aritméticos (soma, subtração, ...)
+  - Math (Sqrt, Pow, Min, Max, Cos, Sin, Exp, ...)
+
 
 
