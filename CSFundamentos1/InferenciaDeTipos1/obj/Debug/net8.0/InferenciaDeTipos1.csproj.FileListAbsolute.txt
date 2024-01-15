@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.sourcelink.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\bin\Debug\net8.0\InferenciaDeTipos1.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\bin\Debug\net8.0\InferenciaDeTipos1.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\bin\Debug\net8.0\InferenciaDeTipos1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\bin\Debug\net8.0\InferenciaDeTipos1.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\bin\Debug\net8.0\InferenciaDeTipos1.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\refint\InferenciaDeTipos1.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\InferenciaDeTipos1.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\InferenciaDeTipos1\obj\Debug\net8.0\ref\InferenciaDeTipos1.dll

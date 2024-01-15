@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.sourcelink.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll
