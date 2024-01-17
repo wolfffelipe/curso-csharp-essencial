@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.sourcelink.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\refint\OperadoresRelacionais.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\OperadoresRelacionais\obj\Debug\net8.0\ref\OperadoresRelacionais.dll

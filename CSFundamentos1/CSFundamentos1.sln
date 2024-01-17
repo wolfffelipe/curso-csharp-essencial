@@ -35,7 +35,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuicao", "Ope
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes1", "Constantes1\Constantes1.csproj", "{C3FAC773-A779-4747-8673-077110FE824F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementoDecremento", "IncrementoDecremento\IncrementoDecremento.csproj", "{01557763-E896-47F2-94F8-D07B7A85818F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncrementoDecremento", "IncrementoDecremento\IncrementoDecremento.csproj", "{01557763-E896-47F2-94F8-D07B7A85818F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{4D5770CF-26D8-43A6-83C1-8F3F334D2502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{EFC8EC3B-54BA-4860-9A2E-E56C27AD662D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaDeOperadores", "PrecedenciaDeOperadores\PrecedenciaDeOperadores.csproj", "{36CB94BF-13A3-42E6-8169-929648EFD6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferencesTypes", "NullableReferencesTypes\NullableReferencesTypes.csproj", "{DC4DC971-1899-4B93-9F01-64C93EF1A056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +119,22 @@ Global
 		{01557763-E896-47F2-94F8-D07B7A85818F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01557763-E896-47F2-94F8-D07B7A85818F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01557763-E896-47F2-94F8-D07B7A85818F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5770CF-26D8-43A6-83C1-8F3F334D2502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5770CF-26D8-43A6-83C1-8F3F334D2502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5770CF-26D8-43A6-83C1-8F3F334D2502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5770CF-26D8-43A6-83C1-8F3F334D2502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC8EC3B-54BA-4860-9A2E-E56C27AD662D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC8EC3B-54BA-4860-9A2E-E56C27AD662D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC8EC3B-54BA-4860-9A2E-E56C27AD662D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC8EC3B-54BA-4860-9A2E-E56C27AD662D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CB94BF-13A3-42E6-8169-929648EFD6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CB94BF-13A3-42E6-8169-929648EFD6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CB94BF-13A3-42E6-8169-929648EFD6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CB94BF-13A3-42E6-8169-929648EFD6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4DC971-1899-4B93-9F01-64C93EF1A056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4DC971-1899-4B93-9F01-64C93EF1A056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4DC971-1899-4B93-9F01-64C93EF1A056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4DC971-1899-4B93-9F01-64C93EF1A056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

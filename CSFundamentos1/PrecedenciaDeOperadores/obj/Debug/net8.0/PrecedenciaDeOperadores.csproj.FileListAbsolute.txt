@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\bin\Debug\net8.0\PrecedenciaDeOperadores.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.sourcelink.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\refint\PrecedenciaDeOperadores.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\PrecedenciaDeOperadores.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\PrecedenciaDeOperadores\obj\Debug\net8.0\ref\PrecedenciaDeOperadores.dll

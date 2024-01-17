@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\bin\Debug\net8.0\NullableReferencesTypes.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\bin\Debug\net8.0\NullableReferencesTypes.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\bin\Debug\net8.0\NullableReferencesTypes.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\bin\Debug\net8.0\NullableReferencesTypes.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\bin\Debug\net8.0\NullableReferencesTypes.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.sourcelink.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\refint\NullableReferencesTypes.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\NullableReferencesTypes.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\curso-csharp-essencial\CSFundamentos1\NullableReferencesTypes\obj\Debug\net8.0\ref\NullableReferencesTypes.dll
