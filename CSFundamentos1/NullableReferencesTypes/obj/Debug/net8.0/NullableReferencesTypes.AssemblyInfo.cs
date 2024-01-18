@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NullableReferencesTypes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6aa122324d2888c079819f5f8465581185d841b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NullableReferencesTypes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NullableReferencesTypes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

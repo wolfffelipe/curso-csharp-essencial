@@ -5,7 +5,7 @@
 //Console.WriteLine(nome.ToUpper()); // Erro
 
 string? nome = null;
-Console.WriteLine(nome?.ToUpper());
+Console.WriteLine(nome?.ToUpper()); // ?. <- Null Conditional Operator
 
 string sobrenome = "";
 Console.WriteLine(sobrenome?.ToUpper());
