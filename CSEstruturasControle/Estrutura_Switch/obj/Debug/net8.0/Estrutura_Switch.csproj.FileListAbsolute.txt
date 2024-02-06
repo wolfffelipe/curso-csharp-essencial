@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\bin\Debug\net8.0\Estrutura_Switch.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\bin\Debug\net8.0\Estrutura_Switch.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\bin\Debug\net8.0\Estrutura_Switch.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\bin\Debug\net8.0\Estrutura_Switch.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\bin\Debug\net8.0\Estrutura_Switch.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\refint\Estrutura_Switch.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\Estrutura_Switch.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_Switch\obj\Debug\net8.0\ref\Estrutura_Switch.dll

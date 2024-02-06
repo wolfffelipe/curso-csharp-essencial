@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\bin\Debug\net8.0\Estrutura_IF.exe
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\bin\Debug\net8.0\Estrutura_IF.deps.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\bin\Debug\net8.0\Estrutura_IF.runtimeconfig.json
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\bin\Debug\net8.0\Estrutura_IF.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\bin\Debug\net8.0\Estrutura_IF.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\refint\Estrutura_IF.dll
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.pdb
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\Estrutura_IF.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Arquivos\CursoCSharpEssencial\CSEstruturasControle\Estrutura_IF\obj\Debug\net8.0\ref\Estrutura_IF.dll
